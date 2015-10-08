@@ -1,0 +1,1 @@
+This project covers the need to access database clusters from PHP. On its first level it's based in Zend Framework Database libraries, so as to use the debugging and profiling tools from Zend Db libraries. In a second step we will develop for mysqli driver.
